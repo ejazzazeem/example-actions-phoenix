@@ -1,4 +1,4 @@
-# Actions
+# Actions on GitHub
 
 This project was built to demonstrate using GitHub Actions with a Phoenix app. This app is just a vanilla Phoenix app and doesn't do much... yet.
 
